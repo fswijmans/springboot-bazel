@@ -26,3 +26,6 @@ This api exposes [/hello on localhost:8080](http://localhost:8080/hello). You ne
 Using default security password: 002eca88-78b4-4378-87ed-ef023995d18c
 ```
 
+## Credits
+
+This project uses Salesforce's scripts to build springboot.
